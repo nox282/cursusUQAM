@@ -1,0 +1,53 @@
+Poulet au romarin 
+poulet] 
+bbq]
+Boeuf au satay 
+boeuf] 
+asiatique]
+Salade du jardin 
+vegetarien]
+Poulet crapaudine 
+poulet]
+Pho 
+soupe] 
+asiatique]
+Authentique gibelotte des iles de Sorel 
+soupe] 
+poisson] 
+terroir]
+Tarte aux cerises 
+tarte] 
+dessert]
+
+poulet
+bbq
+boeuf
+asiatique
+vegetarien
+poulet]
+soupe
+asiatique
+soupe
+poisson
+terroir
+Erreur de segmentation
+
+
+Poulet au romarin [poulet] [bbq]
+Boeuf au satay [boeuf] [asiatique]
+Salade du jardin [vegetarien]
+Poulet crapaudine [poulet]
+Pho [soupe] [asiatique]
+Authentique gibelotte des iles de Sorel [soupe] [poisson] [terroir]
+
+poulet]  cas 1 : poulet
+bbq] cas 2 : bbq
+boeuf]  cas 1 : boeuf
+asiatique] cas 2 : asiatique
+vegetarien] cas 2 : vegetarien
+poulet] cas 2 : poulet]
+soupe]  cas 1 : soupe
+asiatique] cas 2 : asiatique
+soupe]  cas 1 : soupe
+poisson]  cas 1 : poisson
+terroir] cas 2 : terroir
